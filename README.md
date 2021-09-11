@@ -1,6 +1,6 @@
 # WebCoursera
 
-## Features
+## Introduction
 We have developed an E-learning platform named WebCoursera, which offers a list of courses. Currently, the following courses are offered on our website :
 - HTML
 - CSS
@@ -11,7 +11,7 @@ We have developed an E-learning platform named WebCoursera, which offers a list 
   
 In each course page , course recordings offered are categorized on the basis of duration, i.e. short, medium and long . Apart from recordings, the courses also offer reference materials.  
 
-## Project Objectives Accomplished
+## Objectives Accomplished
 To host a website to create an online learning platform for the programming courses using HTML and CSS. The online WebCoursera platform must list all the courses offered for online learning.
 WebCoursera home page must display the icons for categories, search bar, login and sign up page.
 1. Courses offered are HTML,CSS,JAVASCRIPT, JAVA,AJAX,PYTHON.
