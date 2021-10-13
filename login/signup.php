@@ -29,8 +29,6 @@
             <img src="../assets/images/logo.png" width="25" height="25" alt="..."/>
             WebCoursera
         </a>
-
-
     </div>
 </nav>
 
