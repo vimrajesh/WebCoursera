@@ -183,11 +183,11 @@ if (document.querySelector("#headerLocation") !== null) {
 
                 </form>
                 <div class="d-flex justify-content-center">
-                    <a type="button" href="login/login.php"
+                    <a type="button" href="login/login.html"
                     class="btn-md btn-nav btn btn-outline-info me-2 justify-content-evenly">
                         Login
                     </a>
-                    <a type="button" href="login/signup.php"
+                    <a type="button" href="login/signup.html"
                     class="btn-md btn-nav btn btn-outline-warning justify-content-evenly">
                         Sign Up
                     </a>
@@ -254,11 +254,11 @@ else {
     
                 </form>
                 <div class="d-flex justify-content-center">
-                    <a type="button" href="../login/login.php"
+                    <a type="button" href="../login/login.html"
                        class="btn-md btn-nav btn btn-outline-info me-2 justify-content-evenly">
                         Login
                     </a>
-                    <a type="button" href="../login/signup.php"
+                    <a type="button" href="../login/signup.html"
                        class="btn-md btn-nav btn btn-outline-warning justify-content-evenly">
                         Sign Up
                     </a>
