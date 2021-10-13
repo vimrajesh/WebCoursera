@@ -267,4 +267,11 @@ else {
         </div>
     </nav>
     `
+    let docTitle = document.querySelector("title").innerText.toLowerCase();
+    let navLinks = document.querySelectorAll("a.nav-link.hover-effect")
+    for(let i = 0; i < navLinks.length; i++){
+        if(navLinks[i].innerText.toLowerCase() === docTitle){
+            navLinks[i].classList.add("active");
+        }
+    }
 }
